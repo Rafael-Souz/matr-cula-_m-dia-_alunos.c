@@ -24,7 +24,7 @@ int main() {
             }
         }
     }
-    printf("\n\t---Matrícula \t  ---media\n");
+    printf("\n\t---Matrícula-- \t  ---media--\n");
     for(i=0; i<5; i++){
         printf("%d\t\t", matricula
         [i]);
